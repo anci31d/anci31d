@@ -27,8 +27,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anci31d&show_icons=true&hide_border=true&bg_color=0b0f14&title_color=fcee0a&text_color=d7e0e8&icon_color=00f0ff&ring_color=fcee0a&include_all_commits=true" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anci31d&layout=compact&hide_border=true&bg_color=0b0f14&title_color=fcee0a&text_color=d7e0e8&icon_color=00f0ff" alt="Top languages" />
+[![Public repos](https://img.shields.io/github/repos/anci31d?style=for-the-badge&label=PUBLIC%20REPOS&color=fcee0a&labelColor=0b0f14)](https://github.com/anci31d?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/anci31d?style=for-the-badge&label=FOLLOWERS&color=00f0ff&labelColor=0b0f14)](https://github.com/anci31d?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=anci31d&style=for-the-badge&color=ff2a6d&label=PROFILE%20VIEWS)](https://github.com/anci31d)
 
 </div>
 
