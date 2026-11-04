@@ -15,9 +15,9 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
-║  NIGHT CITY // PERSONAL TERMINAL                                    ║
+║  NIGHT CITY // PERSONAL TERMINAL                                     ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  HANDLE      ANCI31D          STATUS      ONLINE                     ║
+║  HANDLE      ANCI31D           STATUS      ONLINE                    ║
 ║  SPECIALTY   CTF / PYTHON      LOCATION    NIGHT CITY                ║
 ║  CURRENT     BUILDING TOOLS    THREAT LVL  ███████░░░ 07             ║
 ╚══════════════════════════════════════════════════════════════════════╝
